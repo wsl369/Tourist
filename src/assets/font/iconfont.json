@@ -1,0 +1,72 @@
+{
+  "id": "4580189",
+  "name": "lvx",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "40672205",
+      "name": "折叠菜单",
+      "font_class": "zhediecaidan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1130582",
+      "name": "门票",
+      "font_class": "menpiao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2076238",
+      "name": " 酒店2",
+      "font_class": "jiudian",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "2076260",
+      "name": "景点2",
+      "font_class": "jingdian",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "2076429",
+      "name": "火车票 面型",
+      "font_class": "huochepiaomianxing",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "4838220",
+      "name": "旅游",
+      "font_class": "lvyou",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5871834",
+      "name": "船票",
+      "font_class": "chuanpiao",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "5961393",
+      "name": "汽车",
+      "font_class": "qiche",
+      "unicode": "ec6d",
+      "unicode_decimal": 60525
+    },
+    {
+      "icon_id": "37348614",
+      "name": "lvxing",
+      "font_class": "lvxing",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
